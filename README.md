@@ -19,4 +19,12 @@ The number of inputs and outputs in a training set depepnds on the numbers speci
 Once the training sets are provided and the training phase is started, the back propagation algorithm will run and update the activation weights accordingly. When the training phase is over, the GUI will show the user the detailed steps followed by the algorithm such as the updated weights for each layer, the number of iterations it took for the algorithm to converge and so on as well as a vizualisation of the obtained perceptron.
 
 ### Testing phase
-In the testing phase, the perceptron
+After the perceptron was trained, the user can provide it with a set of inputs. The perceptron will output a result based on the new activation weights that were computed using the training sets provided previously.
+
+## Demo
+![Alt](http://joeyhelou.com/perceptron/perceptron.png)
+
+![Alt](http://joeyhelou.com/perceptron/perceptron2.png)
+
+## More information
+The detailed paper concerning this project can be found [here](http://joeyhelou.com/perceptron/perceptron.docx "Title")
