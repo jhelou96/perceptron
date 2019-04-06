@@ -27,4 +27,4 @@ After the perceptron was trained, the user can provide it with a set of inputs. 
 ![Alt](http://joeyhelou.com/perceptron/perceptron2.png)
 
 ## More information
-The detailed paper concerning this project can be found [here](http://joeyhelou.com/perceptron/perceptron.docx "Title")
+The detailed paper concerning this project can be found [here](http://joeyhelou.com/perceptron/perceptron.docx)
