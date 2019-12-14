@@ -22,9 +22,9 @@ Once the training sets are provided and the training phase is started, the back 
 After the perceptron was trained, the user can provide it with a set of inputs. The perceptron will output a result based on the new activation weights that were computed using the training sets provided previously.
 
 ## Demo
-![Alt](http://joeyhelou.com/perceptron/perceptron.png)
+![Alt](https://drive.google.com/uc?id=1ipgKEIoOLXuuvDXAf6r1Hhhw2pwEX5w7)
 
-![Alt](http://joeyhelou.com/perceptron/perceptron2.png)
+![Alt](https://drive.google.com/uc?id=155_rlOY3mJizQHtSIPWOGXHIABzt3Hnv)
 
 ## More information
-The detailed paper concerning this project can be found [here](http://joeyhelou.com/perceptron/perceptron.docx)
+The detailed paper concerning this project can be found [here](https://drive.google.com/uc?id=19tugfVNnT0XGNmpj_jNaxD_8bvGs6Oeu)
